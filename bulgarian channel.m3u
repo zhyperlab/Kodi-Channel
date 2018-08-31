@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,BUL | BNT 2
+http://31.41.20.14:4038
+#EXTINF:-1,BUL | BNT HD
+http://31.41.20.14:3955
+#EXTINF:-1,BUL | BNT World
+http://31.41.20.14:3997
+#EXTINF:-1,BUL | BTV
+http://31.41.20.14:3958
+#EXTINF:-1,BUL | BTV HD
+http://31.41.20.14:3982
+#EXTINF:-1,BUL | BTV Action
+http://31.41.20.14:4021
+#EXTINF:-1,BUL | BTV Cinema
+http://31.41.20.14:4025
+#EXTINF:-1,BUL | BTV Comedy
+http://31.41.20.14:4023
+#EXTINF:-1,BUL | BTV Lady
+http://94.156.97.100:9048/48
+#EXTINF:-1,BUL | NOVA TV
+http://31.41.20.14:3952
+#EXTINF:-1,BUL | NOVA Sport
+http://31.41.20.14:4036
+#EXTINF:-1,BUL | Kino Nova
+http://31.41.20.14:3951
+#EXTINF:-1,BUL | Diema
+http://31.41.20.14:3950
+#EXTINF:-1,BUL | Diema Family
+http://31.41.20.14:4039
+#EXTINF:-1,BUL | Sport + HD
+http://31.41.20.14:3968
+#EXTINF:-1,BUL | Action + HD
+http://31.41.20.14:3969
+#EXTINF:-1,BUL | Cinemax HD
+http://94.156.97.100:9237/237
+#EXTINF:-1,BUL | Cinemax 2 HD
+http://94.156.97.100:9238/238
+#EXTINF:-1,BUL | F Plus
+http://31.41.20.14:3956
+#EXTINF:-1,BUL | Film Plus
+http://31.41.20.14:4003
+#EXTINF:-1,BUL | Film Box
+http://31.41.20.14:3991
+#EXTINF:-1,BUL | Cinema +
+http://31.41.20.14:3966
+#EXTINF:-1,BUL | Comedy +
+http://31.41.20.14:3992
+#EXTINF:-1,BUL | Mtel Max Sport 1
+http://88.80.159.1:9553/play/a002
+#EXTINF:-1,BUL | Mtel Max Sport 2
+http://88.80.159.1:9553/play/a004
+#EXTINF:-1,BUL | Diema Sport
+http://31.41.20.14:3960
+#EXTINF:-1,BUL | Diema Sport 2
+http://31.41.20.14:4020
+#EXTINF:-1,BUL | Diema Sport 2 HD
+http://88.80.159.1:9553/play/5bmjsn
+#EXTINF:-1,BUL | Diema Sport 2 HD +
+http://88.80.159.1:9553/play/a001
+#EXTINF:-1,BUL | Eurosport 1
+http://31.41.20.14:4009
+#EXTINF:-1,BUL | Eurosport 2
+http://31.41.20.14:4037
+#EXTINF:-1,BUL | Eurosport HD
+http://31.41.20.14:3970
+#EXTINF:-1,BUL | Natcional Geographic
+http://31.41.20.14:4040
+#EXTINF:-1,BUL | Natcional Geographic HD
+http://31.41.20.14:3978
+#EXTINF:-1,BUL | Natcional Geographic Wild
+http://31.41.20.14:4056
+#EXTINF:-1,BUL | Hobby Tv
+http://31.41.20.14:3954
+#EXTINF:-1,BUL | Hobby Lov
+http://31.41.20.14:3998
+#EXTINF:-1,BUL | Hobby Tv HD
+http://31.41.20.14:3977
+#EXTINF:-1,BUL | Discovery
+http://31.41.20.14:3949
+#EXTINF:-1,BUL | Animal Planet
+http://31.41.20.14:4001
+#EXTINF:-1,BUL | 24 Kitchen
+http://31.41.20.14:4013
+#EXTINF:-1,BUL | Planeta
+http://31.41.20.14:3962
+#EXTINF:-1,BUL | Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,BUL | FAN TV
+http://31.41.20.14:4052
+#EXTINF:-1,BUL | Balkanika
+http://31.41.20.14:4054
+#EXTINF:-1,BUL | Planeta Folk
+http://31.41.20.14:4048
+#EXTINF:-1,BUL | Tiankov Folk
+http://31.41.20.14:4006
+#EXTINF:-1,BUL | ROMA TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-1,BUL | The Voice HD
+http://31.41.20.14:3953
+#EXTINF:-1,BUL | Magic TV
+http://31.41.20.14:3984
